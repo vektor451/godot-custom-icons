@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       d="m 2,11 c -0.5539994,0 -1,0.446001 -1,1 v 2 c 0,0.553999 0.4460006,1 1,1 h 12 c 0.553999,0 1,-0.446001 1,-1 v -2 c 0,-0.553999 -0.446001,-1 -1,-1 z m 0,1 h 6 v 1 H 2 Z m 7,0 h 1 v 1 H 9 Z m 2,0 h 1 v 1 h -1 z m 2,0 h 1 v 1 h -1 z"
+       style="fill:#fc7f7f;stroke:#000000;stroke-width:0"
+       id="path15" />
+    <rect
+       style="fill:#fc7f7f;stroke:#000000;stroke-width:0"
+       id="rect2"
+       width="12"
+       height="1"
+       x="2"
+       y="9"
+       ry="0.5" />
+    <path
+       d="M 2.9804688,1.0195312 C 2.4378026,1.0195312 2,1.4573339 2,2 V 7.0195312 C 2,7.5621974 2.4378026,8 2.9804688,8 H 13.019531 C 13.562197,8 14,7.5621974 14,7.0195312 V 2 C 14,1.4573339 13.562197,1.0195312 13.019531,1.0195312 Z M 3,2 H 13 V 7 H 3 Z"
+       style="fill:#fc7f7f;stroke:#000000;stroke-width:0"
+       id="path14" />
+    <path
+       d="M 7,8 C 7.2769997,8 7.5,8.2230003 7.5,8.5 7.5,8.7769997 7.2769997,9 7,9 H 9 C 8.7230003,9 8.5,8.7769997 8.5,8.5 8.5,8.2230003 8.7230003,8 9,8 Z"
+       style="fill:#fc7f7f;stroke:#000000;stroke-width:0"
+       id="path11" />
+  </g>
+</svg>

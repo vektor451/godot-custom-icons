@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="lock.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 4,7 C 3.4460006,7 3,7.4460006 3,8 v 6 c 0,0.553999 0.4460006,1 1,1 h 8 c 0.553999,0 1,-0.446001 1,-1 V 8 C 13,7.4460006 12.553999,7 12,7 Z M 8,8 A 1.5,1.5 0 0 1 9.5,9.5 1.5,1.5 0 0 1 8.5664063,10.886719 L 8.75,11.5 9.5,14 H 8 6.5 L 7.25,11.5 7.4335937,10.886719 A 1.5,1.5 0 0 1 6.5,9.5 1.5,1.5 0 0 1 8,8 Z"
+       style="fill:#fc7f7f;stroke-width:0.845154;stroke-miterlimit:4.8"
+       id="path13" />
+    <path
+       id="rect3"
+       style="fill:none;fill-opacity:1;stroke:#fc7f7f;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4.8;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.0000001,8.0000003 5,5 C 5,3.3380017 6.3380017,2 8,2 v 0 c 1.6619983,0 3,1.3380017 3,3 v 3.0000001" />
+    <rect
+       style="fill:#fc7f7f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4.8;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16"
+       width="6"
+       height="6"
+       x="5"
+       y="8" />
+    <rect
+       style="fill:#fc7f7f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linejoin:bevel;stroke-miterlimit:4.8;stroke-dasharray:none;stroke-opacity:1"
+       id="rect17"
+       width="6"
+       height="6"
+       x="5"
+       y="8" />
+  </g>
+</svg>
