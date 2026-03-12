@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="tree.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="12.890625"
+     inkscape:cx="-0.93090909"
+     inkscape:cy="17.260606"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="399"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 4.5,9 A 2.5,2.5 0 0 0 2,11.5 2.5,2.5 0 0 0 4.5,14 2.5,2.5 0 0 0 7,11.5 2.5,2.5 0 0 0 4.5,9 Z m 0,1 A 1.5,1.5 0 0 1 6,11.5 1.5,1.5 0 0 1 4.5,13 1.5,1.5 0 0 1 3,11.5 1.5,1.5 0 0 1 4.5,10 Z"
+       style="fill:#975cf6;stroke-linecap:round;stroke-linejoin:round"
+       id="path5" />
+    <path
+       d="M 11.5,9 A 2.5,2.5 0 0 0 9,11.5 2.5,2.5 0 0 0 11.5,14 2.5,2.5 0 0 0 14,11.5 2.5,2.5 0 0 0 11.5,9 Z m 0,1 A 1.5,1.5 0 0 1 13,11.5 1.5,1.5 0 0 1 11.5,13 1.5,1.5 0 0 1 10,11.5 1.5,1.5 0 0 1 11.5,10 Z"
+       style="fill:#975cf6;stroke-linecap:round;stroke-linejoin:round"
+       id="path7" />
+    <circle
+       style="fill:#975cf6;stroke-linecap:round;stroke-linejoin:round"
+       id="path3"
+       cx="8"
+       cy="4.5"
+       r="2.5" />
+    <rect
+       style="fill:#975cf6;stroke-linecap:round;stroke-linejoin:round"
+       id="rect4"
+       width="5.5513902"
+       height="1"
+       x="0.51373571"
+       y="-9.7450304"
+       ry="0.46129659"
+       transform="rotate(120)" />
+    <rect
+       style="fill:#975cf6;stroke-linecap:round;stroke-linejoin:round"
+       id="rect3"
+       width="5.4069734"
+       height="1"
+       x="8.5137358"
+       y="-5.1113758"
+       ry="0.29254818"
+       transform="rotate(60)" />
+  </g>
+</svg>
